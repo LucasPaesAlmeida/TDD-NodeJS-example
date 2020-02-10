@@ -13,5 +13,8 @@
   "scripts": {
     "test": "jest --watch --silent",
     "test:ci": "jest --coverage"
+  },
+  "dependencies": {
+    "validator": "^12.2.0"
   }
 }
